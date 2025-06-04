@@ -1,7 +1,7 @@
-📊 Predicting Credit Card Consumption – Capstone ML Project
+# 📊 Predicting Credit Card Consumption – Capstone ML Project
 This project aims to predict the average credit card consumption for the next three months for customers of a leading bank, using historical customer demographic and behavioral data. The model is built as part of a capstone project from AnalytixLabs.
 
-📌 Table of Contents
+## 📌 Table of Contents
 Problem Statement
 
 Data Overview
@@ -20,10 +20,10 @@ How to Run
 
 Author
 
-🧠 Problem Statement
+## 🧠 Problem Statement
 The banking sector leverages customer behavior data to customize services and improve marketing strategies. In this project, the goal is to predict credit card spending behavior of customers based on their past transactions and demographic data.
 
-📂 Data Overview
+## 📂 Data Overview
 The data consists of three datasets:
 
 CustomerDemographics.csv: Personal and demographic information like gender, age, income, tenure, region, etc.
@@ -32,7 +32,7 @@ CustomerBehaviorData.csv: Past credit/debit card usage, loan status, transaction
 
 CreditConsumptionData.csv: Target variable cc_cons for training (some missing, needs to be predicted for others).
 
-🎯 Objective
+## 🎯 Objective
 Predict the average credit card consumption for the next three months (cc_cons) using:
 
 Demographic and behavioral variables.
@@ -41,7 +41,7 @@ Handle missing target values.
 
 Use RMSPE (Root Mean Square Percentage Error) as the evaluation metric.
 
-🛠️ Approach
+## 🛠️ Approach
 Exploratory Data Analysis (EDA)
 
 Data Cleaning & Missing Value Imputation
@@ -64,7 +64,7 @@ Model Evaluation using RMSPE
 
 Final predictions on missing cc_cons
 
-📈 Model Performance
+## 📈 Model Performance
 Model	              RMSPE (Test Set)
 Linear Regression	  36.11503392744342
 Decision Tree       76.74600231115936
@@ -76,12 +76,11 @@ Ridge Regression    36.08174596130946
 
 (Add actual numbers from your notebook)
 
-💻 Tech Stack
 Python (Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib, Seaborn)
 
 Jupyter Notebook
 
-📦 Results & Deliverables
+## 📦 Results & Deliverables
 ✔️ Exploratory analysis and visualizations
 
 ✔️ Model training and evaluation
@@ -92,7 +91,7 @@ Jupyter Notebook
 
 ✔️ Project report PDF
 
-🚀 How to Run
+## 🚀 How to Run
 Clone the repository
 
 bash
@@ -111,7 +110,8 @@ bash
 Copy
 Edit
 jupyter notebook Credit_Consumption.ipynb
-👤 Author
+
+## 👤 Author
 Pranjal Kastwar
 📧 pranjalkastwar12@gmail.com 
 🎓 Certified Data Analyst, AnalytixLabs
