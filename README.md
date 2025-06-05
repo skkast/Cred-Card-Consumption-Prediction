@@ -73,12 +73,6 @@ Final predictions on missing cc_cons
 ### Random Forest with Grid Search      35.9763303129249
 ### Ridge Regression                    36.08174596130946
 
-(Add actual numbers from your notebook)
-
-Python (Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib, Seaborn)
-
-Jupyter Notebook
-
 ## 📦 Results & Deliverables
 ✔️ Exploratory analysis and visualizations
 
