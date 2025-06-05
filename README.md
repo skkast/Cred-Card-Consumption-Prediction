@@ -65,14 +65,13 @@ Model Evaluation using RMSPE
 Final predictions on missing cc_cons
 
 ## 📈 Model Performance
-### Model	              RMSPE (Test Set)
-Linear Regression	  36.11503392744342
-Decision Tree       76.74600231115936
-XGBoost	            34.32448082190799 
-Random Forest	      37.91552084350399
-Random Forest       35.97633031292495
-with Grid Search
-Ridge Regression    36.08174596130946
+### Model	                             RMSPE (Test Set)
+### Linear Regression	                 36.11503392744342
+### Decision Tree                      76.74600231115936
+### XGBoost	                           34.32448082190799 
+### Random Forest	                      37.91552084350399
+### Random Forest with Grid Search      35.9763303129249
+### Ridge Regression                    36.08174596130946
 
 (Add actual numbers from your notebook)
 
