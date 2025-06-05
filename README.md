@@ -65,7 +65,7 @@ Model Evaluation using RMSPE
 Final predictions on missing cc_cons
 
 ## 📈 Model Performance
-Model	              RMSPE (Test Set)
+### Model	              RMSPE (Test Set)
 Linear Regression	  36.11503392744342
 Decision Tree       76.74600231115936
 XGBoost	            34.32448082190799 
