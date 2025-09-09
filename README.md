@@ -89,8 +89,6 @@ cd credit-consumption-prediction
 pip install -r requirements.txt
 jupyter notebook Credit_Consumption.ipynb
 
----
-
 ## 👤 Author
 **Pranjal Kastwar**  
 📧 Email: pranjalkastwar12@gmail.com  
