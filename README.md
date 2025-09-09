@@ -85,7 +85,7 @@ The data consists of three datasets:
    ```bash
    git clone https://github.com/yourusername/credit-consumption-prediction.git
    cd credit-consumption-prediction
-   Install dependencies```  
+   Install dependencies
 2.pip install -r requirements.txt  
 3.Open the Jupyter Notebook  
 jupyter notebook Credit_Consumption.ipynb  
