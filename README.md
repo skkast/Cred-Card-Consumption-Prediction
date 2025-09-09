@@ -79,16 +79,17 @@ The data consists of three datasets:
 
 ---
 
-## 🚀 How to Run  
+## 🚀 How to Run
 
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/yourusername/credit-consumption-prediction.git
-   cd credit-consumption-prediction
-   Install dependencies
-2.pip install -r requirements.txt  
-3.Open the Jupyter Notebook  
-jupyter notebook Credit_Consumption.ipynb  
+Run these commands in sequence:
+
+```bash
+git clone https://github.com/yourusername/credit-consumption-prediction.git
+cd credit-consumption-prediction
+pip install -r requirements.txt
+jupyter notebook Credit_Consumption.ipynb
+
+---
 
 ## 👤 Author
 **Pranjal Kastwar**  
