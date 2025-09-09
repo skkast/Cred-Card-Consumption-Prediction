@@ -88,6 +88,8 @@ git clone https://github.com/yourusername/credit-consumption-prediction.git
 cd credit-consumption-prediction
 pip install -r requirements.txt
 jupyter notebook Credit_Consumption.ipynb
+```
+---
 
 ## 👤 Author
 **Pranjal Kastwar**  
