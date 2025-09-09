@@ -85,17 +85,17 @@ The data consists of three datasets:
    ```bash
    git clone https://github.com/yourusername/credit-consumption-prediction.git
    cd credit-consumption-prediction
- Install dependencies
-2.pip install -r requirements.txt
-3.Open the Jupyter Notebook
-jupyter notebook Credit_Consumption.ipynb
+   Install dependencies  
+2.pip install -r requirements.txt  
+3.Open the Jupyter Notebook  
+jupyter notebook Credit_Consumption.ipynb  
 
 ## 👤 Author
-Pranjal Kastwar
-📧 pranjalkastwar12@gmail.com 
-🔗 LinkedIn: linkedin.com/in/pranjal-kastwar-82b846177
-🌐 GitHub: github.com/skkast
-🎓 Certified Data Analyst, AnalytixLabs
+**Pranjal Kastwar**  
+📧 Email: pranjalkastwar12@gmail.com  
+🔗 LinkedIn: [linkedin.com/in/pranjal-kastwar-82b846177](https://www.linkedin.com/in/pranjal-kastwar-82b846177)  
+🌐 GitHub: [github.com/skkast](https://github.com/skkast)  
+🎓 Certified Data Analyst – AnalytixLabs
 
 
 
